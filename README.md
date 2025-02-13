@@ -1,73 +1,68 @@
-# Tic-Tac-Toe_Game_in_Java
+# Tic-Tac-Toe Game
 
+## Overview
+The **Tic-Tac-Toe Game** is a classic two-player game developed in **Java** with a user-friendly graphical interface. Players take turns marking spaces in a 3x3 grid until one player aligns three symbols vertically, horizontally, or diagonally.
 
-This project is a simple command-line Tic-Tac-Toe game implemented in Java. It allows two players to take turns placing their marks (X or O) on a 3x3 grid until one player wins or the game ends in a draw.
+## Features
+✅ **Two-Player Mode** – Play against another player on the same device.  
+✅ **Simple UI** – Clean and minimalistic design for better gameplay experience.  
+✅ **Real-Time Feedback** – Highlights the winner or a draw at the end of each game.  
+✅ **Restart Option** – Easily restart the game without closing the application.  
+✅ **Error-Free Moves** – Ensures players can't overwrite each other’s moves.
 
-Features
+## Tech Stack
+- **Language:** Java
+- **IDE:** IntelliJ IDEA / Eclipse
+- **GUI Framework:** Swing / JavaFX
 
-3x3 Tic-Tac-Toe board.
+## Installation
 
-Two-player mode.
+### **Prerequisites**
+- Java 8+
+- IDE for Java development (IntelliJ IDEA/Eclipse)
 
-Input validation to prevent invalid moves.
+### **Steps to Install and Run**
 
-Check for winning conditions across rows, columns, and diagonals.
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/Tic-Tac-Toe-Game.git
+   cd Tic-Tac-Toe-Game
+   ```
 
-Detects draw when the board is full.
+2. **Open the Project in IDE:**
+   - Open IntelliJ IDEA/Eclipse and import the project.
 
-Prerequisites
+3. **Run the Application:**
+   - Locate the main class `TicTacToe.java`.
+   - Run the file to launch the game.
 
-Java Development Kit (JDK) installed (version 8 or higher).
+## Usage
+1. Launch the application.
+2. Players take turns placing `X` and `O` on the grid.
+3. The game ends when a player wins or the grid is full (draw).
+4. Restart the game for another round!
 
-An IDE like IntelliJ IDEA or a text editor.
+## Code Structure
+| File | Description |
+|------|-------------|
+| `TicTacToe.java` | Main game logic and GUI implementation |
+| `GameBoard.java` | Handles the board structure and win-checking logic |
+| `Player.java` | Defines player attributes and moves |
 
-How to Run
+## Contributing
+We welcome contributions! To contribute:
+1. Fork the repository
+2. Create a new branch (`feature-xyz`)
+3. Commit your changes
+4. Push to your fork and submit a Pull Request
 
-Clone this repository:
+## License
+📜 MIT License – Free to use and modify!
 
-git clone https://github.com/yourusername/TicTacToe-Java.git
+## Contact
+For any questions or feedback, reach out to:
+- **Email:** your-email@example.com
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/samruddhi-gore-b621242b0)
 
-Navigate to the project directory:
-
-cd TicTacToe-Java
-
-Compile the Java code:
-
-javac TicTacToe.java
-
-Run the compiled code:
-
-java TicTacToe
-
-Code Structure
-
-TicTacToe.java: Main class containing the game logic, including board initialization, player moves, checking for wins, and handling the game loop.
-
-Sample Output
-
-Board:
-- - -
-- - -
-- - -
-Player X's turn. Enter row and column (1-3): 1 1
-Board:
-X - -
-- - -
-- - -
-...
-Player X wins!
-
-Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-License
-
-Contact
-
-Author: Samruddhi Gore
-
-Email: samu6aai@gmail.com
-
-LinkedIn: www.linkedin.com/in/samruddhi-gore-b621242b0
-
+---
+🎮 **Tic-Tac-Toe Game – Bringing Classic Fun to Modern Devices!**
