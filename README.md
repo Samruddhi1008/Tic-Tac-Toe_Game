@@ -56,12 +56,9 @@ We welcome contributions! To contribute:
 3. Commit your changes
 4. Push to your fork and submit a Pull Request
 
-## License
-📜 MIT License – Free to use and modify!
-
 ## Contact
 For any questions or feedback, reach out to:
-- **Email:** your-email@example.com
+- **Email:** your-samu6aai@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/samruddhi-gore-b621242b0)
 
 ---
