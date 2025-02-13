@@ -69,5 +69,5 @@ Author: Samruddhi Gore
 
 Email: samu6aai@gmail.com
 
-LinkedIn: Samruddhi Gore
+LinkedIn: www.linkedin.com/in/samruddhi-gore-b621242b0
 
